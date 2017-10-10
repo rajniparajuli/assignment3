@@ -1,4 +1,4 @@
-
+package company;
 public class Player {
 	private String name;
 	private int balance;

@@ -1,3 +1,4 @@
+package company;
 public class Dice {
 			
 	private DiceValue value;
